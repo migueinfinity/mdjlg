@@ -37,7 +37,7 @@
 ## Código Fuente
 
 * Lección 1
-  * >  <a href="https://drive.google.com/file/d/1G16gx5zGVRoNFt12DGSejeZ8vLrx-q_d/view?usp=sharing">Prototipo 1</a>
+  * >  <a href="">Prototipo 1</a>
 * Challenge 1
   * >  <a href="https://drive.google.com/file/d/11kFGJDy_etCiP7dCNBik-ZmwWEEY3RKS/view?usp=drive_link">Challenge 1</a>
 * Prototipo 2
