@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://img-new.cgtrader.com/items/1943996/a0da468fb5/large/rpg-poly-pack-slavic-town-3d-model-low-poly-fbx-unitypackage-prefab-pdf.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://wallpapers.com/images/featured/juegos-indie-pusr8rco8kl3irzi.jpg" alt="Logo" width=1200 height=300>
 
  
 
@@ -37,21 +37,15 @@
 ## Código Fuente
 
 * Lección 1
-  * > Prototipo 1
   * >  <a href="https://drive.google.com/file/d/1G16gx5zGVRoNFt12DGSejeZ8vLrx-q_d/view?usp=sharing">Prototipo 1</a>
 * Challenge 1
-  * > Challenge 1
-  * >  <a href="https://drive.google.com/file/d/1La3Yo6aSJ06_VvkqcEj4NFByvqZKBtj2/view?usp=sharing">Challenge 1</a>
+  * >  <a href="https://drive.google.com/file/d/11kFGJDy_etCiP7dCNBik-ZmwWEEY3RKS/view?usp=drive_link">Challenge 1</a>
 * Prototipo 2
-  * > Prototipo 2
-  * >  <a href="https://drive.google.com/file/d/1xdjKOOSVZVbA6OqSUKv3NKraILN3tP9V/view?usp=sharing">Prototipo 2</a>
+  * >  <a href="https://drive.google.com/file/d/18UjhSfKd0Y1oxw8_7ZXGOgIPwQZAq3AK/view?usp=drive_link">Prototipo 2</a>
 * Challenge 2
-  * > Challenge 2
-  * > <a href="https://drive.google.com/file/d/1Ha77p1cfh0QyfKYjXbgXGD3az_cRSblt/view?usp=sharing">Challenge 2</a>
+  * > <a href="">Challenge 2</a>
 * Prototipo 3
-  * > Prototipo 3
-  * > <a href="https://drive.google.com/file/d/1bfbBkRcDChw6jkOELeo5IwN39A3m3j9Z/view?usp=sharing">PDF</a>
-  * > <a href="https://drive.google.com/file/d/1y6HZr8y7sF-ep_6D4vUwLsKu9tcjMKHm/view?usp=sharing">Prototipo 3</a>
+  * > <a href="https://drive.google.com/file/d/1MiER_Ss-RNnXHqOWTujCMMExQ6XuHK3K/view?usp=drive_link">Prototipo 3</a>
   * > Prueba
 * VideoJuego
 
@@ -60,9 +54,10 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Alma Gisela Cerna Camarillo
-Oliver Zaid Vázquez Silva
-Miguel de Jesus Luna Garay
+* Miguel de Jesus Luna Garay
+* Alma Gisela Cerna Camarillo
+* Oliver Zaid Vázquez Silva
 
 ## Copyright
 Derechos Reservados 2022
+Miguel de Jesus Luna Garay
